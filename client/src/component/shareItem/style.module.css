@@ -1,0 +1,9 @@
+.site-statistic-demo-cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 30px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    border: 2px solid rgb(174, 166, 166);
+    border-radius: 20px;
+};

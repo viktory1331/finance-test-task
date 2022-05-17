@@ -20,6 +20,9 @@ As a bonus you can implement (please describe implemented bonus functionality in
 - the possibility to add/remove ticker from watching group
 - any additional functionality you consider useful
 
+Implemented(bonus ui effect):
+- Added  a visual effect depending on whether the yield fell or not
+
 You should use the next technologies:
 - React (preferable with hooks)
 - Redux (with Redux-Thunk or any other Redux middleware you are familiar) or any other state-manager library you want
